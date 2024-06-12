@@ -1,0 +1,12 @@
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\bin\Debug\net8.0\GDPRUtilitiesLibrary.deps.json
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\bin\Debug\net8.0\GDPRUtilitiesLibrary.dll
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\bin\Debug\net8.0\GDPRUtilitiesLibrary.pdb
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.AssemblyInfoInputs.cache
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.AssemblyInfo.cs
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.csproj.CoreCompileInputs.cache
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.sourcelink.json
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.dll
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\refint\GDPRUtilitiesLibrary.dll
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\GDPRUtilitiesLibrary.pdb
+E:\Development\WpfApp_Stub_Governance\GDPRUtilitiesLibrary\obj\Debug\net8.0\ref\GDPRUtilitiesLibrary.dll

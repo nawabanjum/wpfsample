@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GovernanceLibrary/1.0.0": {
+        "dependencies": {
+          "GDPRUtilitiesLibrary": "1.0.0"
+        },
+        "runtime": {
+          "GovernanceLibrary.dll": {}
+        }
+      },
+      "GDPRUtilitiesLibrary/1.0.0": {
+        "runtime": {
+          "GDPRUtilitiesLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GovernanceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GDPRUtilitiesLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
