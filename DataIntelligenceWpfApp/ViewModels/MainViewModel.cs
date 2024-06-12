@@ -13,7 +13,7 @@ namespace DataIntelligenceWpfApp.ViewModels
     {
         private BaseViewModel _currentViewModel;
         public DashboardViewModel DashboardViewModel { get; }
-
+       
         public BaseViewModel CurrentViewModel
         {
             get { return _currentViewModel; }
@@ -29,6 +29,8 @@ namespace DataIntelligenceWpfApp.ViewModels
             DashboardViewModel = dashboardViewModel;
             //CurrentViewModel = dashboardViewModel;
             
+
+
         }
     }
 }

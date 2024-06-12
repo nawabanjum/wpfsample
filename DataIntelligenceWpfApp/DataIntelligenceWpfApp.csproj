@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Dlls\" />
+    <Folder Include="UserControls\BaseControls\" />
   </ItemGroup>
 
   <ItemGroup>

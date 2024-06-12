@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\App.xaml
-4-629046763
+5-912658132
 
-14-14348561
+15-716344271
 204383241118
-MainWindow.xaml;Resources\Resources.xaml;Resources\TextBlockRoundCorner.xaml;Views\DashboardView.xaml;
+MainWindow.xaml;Resources\Resources.xaml;Resources\TextBlockRoundCorner.xaml;UserControls\DashboardControls\DashboardView.xaml;UserControls\DashboardControls\LiveJobsControl\UCLiveJobs.xaml;
 
 False
 

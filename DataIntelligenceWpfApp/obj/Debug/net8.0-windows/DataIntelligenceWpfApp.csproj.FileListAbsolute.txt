@@ -1,7 +1,6 @@
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp.csproj.AssemblyReference.cache
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\MainWindow.g.cs
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\Resources\TextBlockRoundCorner.g.cs
-E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\Views\DashboardView.g.cs
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\App.g.cs
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp_MarkupCompile.cache
@@ -26,7 +25,6 @@ E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\bin\Debug\net8.0-wi
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\MainWindow.baml
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\Resources\Resources.baml
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\Resources\TextBlockRoundCorner.baml
-E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\Views\DashboardView.baml
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp.g.resources
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp.GeneratedMSBuildEditorConfig.editorconfig
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp.AssemblyInfoInputs.cache
@@ -39,3 +37,7 @@ E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-wi
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp.pdb
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\DataIntelligenceWpfApp.genruntimeconfig.cache
 E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\ref\DataIntelligenceWpfApp.dll
+E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\UserControls\DashboardControls\DashboardView.g.cs
+E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\UserControls\DashboardControls\LiveJobsControl\UCLiveJobs.g.cs
+E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\UserControls\DashboardControls\DashboardView.baml
+E:\Development\WpfApp_Stub_Governance\DataIntelligenceWpfApp\obj\Debug\net8.0-windows\UserControls\DashboardControls\LiveJobsControl\UCLiveJobs.baml
